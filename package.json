@@ -1,0 +1,11 @@
+{
+  "name": "meal-search",
+  "version": "1.0.0",
+  "description": "simple app for searching meals",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Georgi Yotdanov",
+  "license": "ISC"
+}
